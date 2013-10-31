@@ -1,0 +1,13 @@
+Normal Text             normal              250, 95 , 50            44 , 44 , 44
+Python Keywords         keyword             0  , 118, 236           44 , 44 , 44 
+Python Definitions      definition          146, 208, 0             44 , 44 , 44
+Python Builtins         builtin             0  , 128, 255           44 , 44 , 44
+Python Comments         comment             88 , 88 , 88            44 , 44 , 44 
+Python Strings          string              80 , 255, 80            44 , 44 , 44
+Selected Text           hilite              0  , 0  , 0             77 , 77 , 77 
+Found Text              hit                 128, 128, 255           44 , 44 , 44
+Cursor                  Cursor              192, 192, 192           44 , 44 , 44
+Error Text              error               0  , 128, 0             44 , 44 , 44
+Shell Normal Text       console             245, 1  , 10            44 , 44 , 44
+Shell Stdout Text       stdout              128, 255, 0             44 , 44 , 44
+Shell Stderr Text       stderr              0  , 255, 0             44 , 44 , 44 

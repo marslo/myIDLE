@@ -1,0 +1,1 @@
+ipython qtconsole --IPythonWidget.font_family=Monaco --colors=Linux --IPythonWidget.font_size=12 --profile=pysh --sytle=marslo
